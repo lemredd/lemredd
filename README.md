@@ -12,7 +12,7 @@
 <table>
 <tr>
 
-<td valign="top" width="33%" style="border-right:1px solid">
+<td valign="top" width="33%">
 
 ### Front-end
 <div align="center">
@@ -30,7 +30,7 @@
 
 </td>
 
-<td valign="top" width="33%" style="border-right:1px solid">
+<td valign="top" width="33%">
 
 ### Back-end
 <div align="center">
