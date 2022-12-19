@@ -1,8 +1,10 @@
 ## <div align="center">I'm Jarlem, a front-end developer 👨‍💻 Coding since 2019 🚀</div>
 
 <br/>
+
 - 🌱 I’m currently learning React and Svelte
 - ⚡ Fun fact: I use tabs over spaces
+
 <br/>
 
 
