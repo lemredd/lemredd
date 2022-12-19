@@ -140,13 +140,20 @@
 <br/>
 
 <div align="center">
-			<a href="https://paypal.me/lemredd" target="_blank" style="display: inline-block;">
-				<img
-					src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"
-					align="center"
-				/>
-			</a></div>
+	<a href="https://paypal.me/lemredd" target="_blank" style="display: inline-block;">
+		<img
+			src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"
+			align="center"
+		/>
+	</a></div>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div>
+<br/>
+
+### References
+Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
+<br/>
+Other logos were obtained from <a href="https://devicon.dev/" target="_blank">devicon.dev</a>
+</div>
