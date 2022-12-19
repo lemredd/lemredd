@@ -85,9 +85,10 @@
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api?username=lemredd&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark" />
 	</a>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
+	<!-- Top Languages Card will be temporarily disabled. It seems that it does not recognize private repositories as well. -->
+	<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemredd&hide_border=true&theme=vision-friendly-dark" />
-	</a>
+	</a> -->
 
 <br/>
 <br/>
