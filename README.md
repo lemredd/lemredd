@@ -36,5 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemredd&show_icons=true&locale=en" alt="lemredd" /></p>
 
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemredd&label=Profile%20views&color=0e75b6&style=flat" alt="lemredd" /> </p>
+
 Made with [GitHub Profile README generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
