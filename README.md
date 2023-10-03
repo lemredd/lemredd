@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [lemredd.pages.dev](lemredd.pages.dev)
+- 👨‍💻 All of my projects are available at [lemredd.pages.dev](https://lemredd.pages.dev)
 
-- 📝 I write articles on [dev.to/lemredd](dev.to/lemredd)
+- 📝 I write articles on [dev.to/lemredd](https://dev.to/lemredd)
 
 - 💬 Ask me about **Vue, React, & Svelte**
 
 - 📫 How to reach me **lmoa.jhdp@gmail.com**
 
-- 📄 Know about my experiences [lemredd.pages.dev/#about](lemredd.pages.dev/#about)
+- 📄 Know about my [experiences](https://lemredd.pages.dev/#about)
 
-- ⚡ Fun fact **I believe tabs reign over spaces.**
+- ⚡ Fun fact: **I believe tabs reign over spaces.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
