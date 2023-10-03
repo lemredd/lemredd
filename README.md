@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [lemredd.pages.dev](https://lemredd.pages.dev)
-
 - 📝 I write articles on [dev.to/lemredd](https://dev.to/lemredd)
 
 - 💬 Ask me about **Vue, React, & Svelte**
@@ -18,6 +16,8 @@
 - 📫 How to reach me **lmoa.jhdp@gmail.com**
 
 - 📄 Know about my [experiences](https://lemredd.pages.dev/#about)
+
+- 👨‍💻 Know more about me at [lemredd.pages.dev](https://lemredd.pages.dev)
 
 - ⚡ Fun fact: **I believe tabs reign over spaces.**
 
