@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jarlem.</h1>
 <h3 align="center">A passionate frontend/full-stack developer from Philippines.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemredd&label=Profile%20views&color=0e75b6&style=flat" alt="lemredd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemredd&theme=onedark" alt="lemredd" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemredd&theme=onedark&row=2&column=4" alt="lemredd" /></a> </p>
 
 - 🔭 I’m currently working on [Shoppier](https://github.com/lemredd/shoppier)
 
@@ -36,4 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemredd&show_icons=true&locale=en" alt="lemredd" /></p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemredd&label=Profile%20views&color=0e75b6&style=flat" alt="lemredd" /> </p>
 Made with [GitHub Profile README generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
