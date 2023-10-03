@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemredd&label=Profile%20views&color=0e75b6&style=flat" alt="lemredd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemredd" alt="lemredd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemredd&theme=onedark" alt="lemredd" /></a> </p>
 
 - 🔭 I’m currently working on [Shoppier](https://github.com/lemredd/shoppier)
 
