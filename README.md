@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Shoppier](https://github.com/lemredd/shoppier)
 -->
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** & **Java**
 
 - 💬 Ask me about **Python, Golang, JavaScript**
 
