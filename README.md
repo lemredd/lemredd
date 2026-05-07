@@ -9,9 +9,7 @@
 - 🔭 I’m currently working on [Shoppier](https://github.com/lemredd/shoppier)
 -->
 
-- 🌱 I’m currently learning **Golang** & **Java**
-
-- 💬 Ask me about **Python, Golang, JavaScript**
+- 💬 Ask me about **Python & JavaScript/TypeScript**
 
 - 📫 Reach out to me **jarlemdeperalta@gmail.com**
 
