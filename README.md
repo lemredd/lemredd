@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Golang, JavaScript**
 
-- 📫 Reach out to me **jarlemdeperalta@proton.me**
+- 📫 Reach out to me **jarlemdeperalta@gmail.com**
 
 - 👨‍💻 Know more about me at [my website](https://lemredd.deno.dev)
 
@@ -21,16 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jarlemred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jarlemred" width="40" /></a>
+<a href="https://linkedin.com/in/jarlemred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jarlemred" width="40" /></a> 
 <a href="https://gitlab.com/lemredd" target="blank"><img width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lemredd&show_icons=true&locale=en&layout=compact" alt="lemredd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemredd&show_icons=true&locale=en" alt="lemredd" /></p>
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemredd&label=Profile%20views&color=0e75b6&style=flat" alt="lemredd" /> </p>
-
-Made with [GitHub Profile README generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
